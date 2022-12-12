@@ -1,3 +1,3 @@
-# CronExpressionParser -
+# CronExpressionParser
 
 Building a cron expression parser
