@@ -1,6 +1,0 @@
-spring:
-  bannner:
-    location: classpath:/banner.txt
-logging:
-  pattern:
-    console:
